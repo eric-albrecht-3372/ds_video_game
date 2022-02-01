@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Group By Platform/
+Group by Decade/
+Group by Franchise/
+Initial Plots/
